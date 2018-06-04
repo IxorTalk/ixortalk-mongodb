@@ -34,7 +34,7 @@
 
     <name>ixortalk.mongodb</name>
     <description>IxorTalk docker for MongoDB</description>
-    <url>https://github.com/ixortalkadmin/ixortalk-mongodb/tree/master</url>
+    <url>https://github.com/ixortalk/ixortalk-mongodb/tree/master</url>
 
     <organization>
         <name>IxorTalk CVBA</name>
@@ -71,7 +71,7 @@
     <scm>
         <connection>scm:git:git@github.com:ixortalkadmin/ixortalk-mongodb.git</connection>
         <developerConnection>scm:git:git@github.com:ixortalkadmin/ixortalk-mongodb.git</developerConnection>
-        <url>https://github.com/ixortalkadmin/ixortalk-mongodb/tree/master</url>
+        <url>https://github.com/ixortalk/ixortalk-mongodb/tree/master</url>
         <tag>HEAD</tag>
     </scm>
 
