@@ -69,8 +69,8 @@
         </developer>
     </developers>
     <scm>
-        <connection>scm:git:git@github.com:ixortalkadmin/ixortalk-mongodb.git</connection>
-        <developerConnection>scm:git:git@github.com:ixortalkadmin/ixortalk-mongodb.git</developerConnection>
+        <connection>scm:git:git@github.com:ixortalk/ixortalk-mongodb.git</connection>
+        <developerConnection>scm:git:git@github.com:ixortalk/ixortalk-mongodb.git</developerConnection>
         <url>https://github.com/ixortalk/ixortalk-mongodb/tree/master</url>
         <tag>HEAD</tag>
     </scm>
